@@ -1,10 +1,9 @@
 <div class="container">
 	<div class="row">
-		<div class="col-md-12">
-			<h2 class="text-center">Kontakt do nas :)</h2>
-			<p>mala kreska pod</p>
+		<div class="col-md-12 contactH2">
+			<h2 class="text-center"><strong>KONTAKT DO NAS :)</strong></h2>
 
-			<p>Coś ala z miłą chęcią odpowiemy na wszystkie pytania <strong>WYCEntrowany lub wyjostowant</strong> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, magni.</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio rerum voluptate reprehenderit minima error omnis quisquam necessitatibus, unde, provident tenetur commodi vero, quis dicta sequi aut quaerat? Ab veniam distinctio reiciendis sit eveniet! Blanditiis cumque culpa accusamus unde non ipsum.</p>
 		</div>
 	</div>
 </div>
@@ -15,33 +14,33 @@
 <!-- Wszystkie koła i headingi są linaki -->
 <div class="container">
 	<div class="row">
-		<div class="col-md-3">
-			<div>
-				Koło a środku ikona wiadomości
+		<div class="col-md-3 text-center contactText">
+			<div class="contactCircle">
+				<img src="img/mail.png" class="img-responsive center-block text-center" alt="">
 			</div>
-			<h3>Email</h3>
-			<p>mail@exmaple</p>
+			<h3 class="text-center margin-top-big">EMAIL</h3>
+			<p class="text-center">mail@exmaple</p>
 		</div>
-		<div class="col-md-3">
-			<div>
-				Koło a środku ikona Telefonu
+		<div class="col-md-3 text-center contactText">
+			<div class="contactCircle">
+				<img src="img/telephone.png" class="img-responsive center-block text-center" alt="">
 			</div>
-			<h3>Telefon</h3>
-			<p>888 888 888</p>
+			<h3 class="text-center margin-top-big">TELEFON</h3>
+			<p class="text-center">888 888 888</p>
 		</div>
-		<div class="col-md-3">
-			<div>
-				Koło a środku ikona ? Lading page
+		<div class="col-md-3 text-center contactText">
+			<div class="contactCircle">
+				<img src="img/payment.png" class="img-responsive center-block text-center" alt="">
 			</div>
-			<h3>????</h3>
-			<p>Rabat ? Promocja</p>
+			<h3 class="text-center margin-top-big">????</h3>
+			<p class="text-center">SKORZYSTAJ Z RABATU!</p>
 		</div>
-		<div class="col-md-3">
-			<div>
-				Koło a środku ikona Facebook
+		<div class="col-md-3 text-center contactText">
+			<div class="contactCircle">
+				<img src="img/facebook.png" class="img-responsive center-block text-center" alt="">
 			</div>
-			<h3>Znajdź nas na Fb</h3>
-			<p>link do fb</p>
+			<h3 class="text-center margin-top-big">ZNAJDZ NAS NA Fb</h3>
+			<p class="text-center">link do fb</p>
 		</div>
 	</div>
 </div>
