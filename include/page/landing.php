@@ -22,8 +22,8 @@
 		<script src="js/transition.js"></script>
 	</head>
 	<body>
-		<div class="container landing"> 
-			<div class="row">
+		<div class="container"> 
+			<div class="row landingLogo">
 				<div class="col-md-4 col-md-offset-2">
 					<img src="img/logo.png" alt="logo">
 				</div>
@@ -31,25 +31,31 @@
 					<h2>ZADZWOŃ: 888 888 888</h2>
 				</div>
 			</div>
-			<div class="row">
-				<div class="col-md-12">
-					<form class="col-md-4 col-md-offset-2" role="form">
-						<div class="form-group">
-							<label for="name">Imię </label>
-							<input type="password" class="form-control" id="name" placeholder="Wpisz swoje imię">
-						</div>
-						<div class="form-group">
-							<label for="email">Email</label>
-							<input type="email" class="form-control" id="email" placeholder="Podaj adres e-mail">
-						</div>
-						<div class="form-group">
-							<label for="phoneNumber">Numer telefonu</label>
-							<input type="tel" class="form-control" id="phoneNumber" placeholder="Poadj numer telefonu">
-						</div>
-							<button type="submit" class="btn btn-default">Wyślij!</button>
-					</form>
+		</div>
+		<div class="container-fluid landing">
+			<div class="container"> 
+				<div class="row" >
+					<div class="col-md-12">
+						<form class="col-md-4  role="form">
+							<div class="form-group">
+								<label for="name">Imię </label>
+								<input type="password" class="form-control" id="name" placeholder="Wpisz swoje imię">
+							</div>
+							<div class="form-group">
+								<label for="email">Email</label>
+								<input type="email" class="form-control" id="email" placeholder="Podaj adres e-mail">
+							</div>
+							<div class="form-group">
+								<label for="phoneNumber">Numer telefonu</label>
+								<input type="tel" class="form-control" id="phoneNumber" placeholder="Poadj numer telefonu">
+							</div>
+								<button type="submit" class="btn btn-default">Wyślij!</button>
+						</form>
+					</div>
 				</div>
 			</div>
+		</div>
+		<div class="container"> 
 			<div class="row">
 				<div class="col-md-4">.
 					<img src="img/headerFoto1.png" alt="logo">

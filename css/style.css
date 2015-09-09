@@ -6764,3 +6764,16 @@ button.close {
     display: none !important;
   }
 }
+html {
+  font-size: 62.5%;
+}
+.landingLogo {
+  height: 10em;
+}
+.landingLogo img {
+  width: 100%;
+}
+.landing {
+  height: 20em;
+  background: red;
+}
