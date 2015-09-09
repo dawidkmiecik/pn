@@ -22,7 +22,7 @@
 		<script src="js/transition.js"></script>
 	</head>
 	<body>
-		<div class="container"> 
+		<div class="container landing"> 
 			<div class="row">
 				<div class="col-md-4 col-md-offset-2">
 					<img src="img/logo.png" alt="logo">
