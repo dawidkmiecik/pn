@@ -5,6 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Procjet Piotr Nowak</title>
+		<link href="css/fonts.css" rel="stylesheet">
 		<link href="css/style.css" rel="stylesheet">
 
 		<script src="http://code.jquery.com/jquery-latest.min.js"></script> 
