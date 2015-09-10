@@ -6777,6 +6777,67 @@ html {
   height: 20em;
   background: red;
 }
+p {
+  font-size: 1.6rem;
+}
+body {
+  background-color: #73DD81;
+}
+.margin-bottom {
+  margin-bottom: 10px;
+}
+.margin-bottom-min {
+  margin-bottom: 20px;
+}
+.margin-bottom-big {
+  margin-bottom: 40px;
+}
+.margin-top {
+  margin-top: 10px;
+}
+.margin-top-min {
+  margin-top: 20px;
+}
+.margin-top-big {
+  margin-top: 40px;
+}
+.contactH2 {
+  color: #006967;
+}
+.contactH2 h2 {
+  position: relative;
+}
+.contactH2 h2 :after {
+  content: "";
+  display: block;
+  width: 10%;
+  height: 2px;
+  position: absolute;
+  bottom: -50px;
+  left: 0;
+  background-color: white;
+  margin-right: 45%;
+  margin-left: 45%;
+}
+.contactH2 p {
+  text-align: center;
+  font-family: 'sertigregular';
+  padding-top: 80px;
+}
+.contactText .contactCircle {
+  margin-top: 80px;
+  height: 150px;
+  width: 150px;
+  -webkit-border-radius: 150px 150px 150px 150px;
+  border-radius: 150px 150px 150px 150px;
+  display: inline-block;
+  border: 2px solid #FDFDFD;
+}
+.contactText .contactCircle img {
+  margin-top: 35px;
+  max-height: 50%;
+  max-width: 50%;
+}
 .formularz label {
   display: block;
   /* ustawiamy by label rozpoczynał się od nowej linii*/
