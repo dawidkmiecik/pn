@@ -6764,16 +6764,124 @@ button.close {
     display: none !important;
   }
 }
-html {
-  font-size: 62.5%;
-}
+/**************************************
+ 		start Landing style
+************************************/
 .landingLogo {
-  height: 10em;
+  height: 15rem;
 }
 .landingLogo img {
   width: 100%;
 }
-.landing {
-  height: 20em;
-  background: red;
+.landingLogo h2 {
+  color: #73dd81;
+}
+.landingHeader {
+  height: 60rem;
+  background: url('../img/landingHeader.jpg');
+  background-size: cover;
+  background-position: center left;
+  border-bottm: solid 0.4rem #73dd81;
+  position: relative;
+}
+.landingHeader:after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 60rem;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.5);
+}
+.landingHeader p {
+  margin-top: 2rem;
+}
+.landingHeader form {
+  margin-top: 5rem;
+  background: #ffffff;
+  height: 40rem;
+  border: solid 0.4rem #73dd81;
+  z-index: 10;
+}
+.landingHeader form label {
+  text-transform: uppercase;
+  color: #73dd81;
+}
+.landingHeader form button {
+  text-transform: uppercase;
+  background: #73dd81;
+  display: block;
+  width: 40%;
+  margin: 0 auto;
+}
+.landingSection img {
+  width: 100%;
+  border-radius: 50%;
+  border: solid 0.4rem #73dd81;
+}
+.landingKnowUs {
+  background: #73dd81;
+}
+/**************************************
+ 		end Landing style
+************************************/
+html {
+  font-size: 62.5%;
+}
+p {
+  font-size: 1.6rem;
+}
+.margin-bottom {
+  margin-bottom: 10px;
+}
+.margin-bottom-min {
+  margin-bottom: 20px;
+}
+.margin-bottom-big {
+  margin-bottom: 40px;
+}
+.margin-top {
+  margin-top: 10px;
+}
+.margin-top-min {
+  margin-top: 20px;
+}
+.margin-top-big {
+  margin-top: 40px;
+}
+.contactH2 {
+  color: #006967;
+}
+.contactH2 h2 {
+  position: relative;
+}
+.contactH2 h2 :after {
+  content: "";
+  display: block;
+  width: 10%;
+  height: 2px;
+  position: absolute;
+  bottom: -50px;
+  left: 0;
+  background-color: white;
+  margin-right: 45%;
+  margin-left: 45%;
+}
+.contactH2 p {
+  text-align: center;
+  font-family: 'sertigregular';
+  padding-top: 80px;
+}
+.contactText .contactCircle {
+  margin-top: 80px;
+  height: 150px;
+  width: 150px;
+  -webkit-border-radius: 150px 150px 150px 150px;
+  border-radius: 150px 150px 150px 150px;
+  display: inline-block;
+  border: 2px solid #FDFDFD;
+}
+.contactText .contactCircle img {
+  margin-top: 35px;
+  max-height: 50%;
+  max-width: 50%;
 }

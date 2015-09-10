@@ -1,28 +1,85 @@
-<<<<<<< HEAD
-html{
-	font-size: 62.5%;
-}
-
+/**************************************
+ 		start Landing style
+************************************/
+@backgroundColor: #fff;
+@secondColor: #73dd81;
 
 .landingLogo{
-	height: 10em;
-
+	height: 15rem;
+	
 	img{
 		width: 100%;
 	}
+
+	h2{
+		color: @secondColor;
+	}
 }
 
-.landing{
-	height: 20em;
-	background: red;
-=======
+.landingHeader{
+	height: 60rem;
+	background: url('../img/landingHeader.jpg');
+	background-size: cover;
+	background-position: center left;
+	border-bottm: solid 0.4rem @secondColor;
+	position: relative;
+
+	&:after{
+		position: absolute;
+		top: 0;
+		left: 0;
+		height: 60rem;
+		width: 100%;
+		background: rgba(255, 255, 255, 0.5);
+	}
+
+	p{
+		margin-top: 2rem;
+	}
+
+	form{
+		margin-top: 5rem;
+		background: @backgroundColor;
+		height: 40rem;
+		border: solid 0.4rem @secondColor;
+		z-index: 10;
+
+		label{
+			text-transform: uppercase;
+			color: @secondColor;
+			}
+		
+		button{
+			text-transform: uppercase;
+			background: @secondColor;
+			display: block;
+			width: 40%;
+			margin: 0 auto;
+		}
+	}
+}
+
+.landingSection{
+
+	img{
+		width: 100%;
+		border-radius: 50%;
+    	border: solid 0.4rem @secondColor;
+	}
+}
+
+.landingKnowUs{
+	background: @secondColor;
+}
+
+/**************************************
+ 		end Landing style
+************************************/
+
 html {
 	font-size: 62.5%;
 }
 
-body {
-	background-color: #73DD81;
-}
 
 p {
 	font-size: 1.6rem;
@@ -91,11 +148,10 @@ p {
 		border-radius: 150px 150px 150px 150px;
 		display: inline-block;
 		border: 2px solid #FDFDFD;
-		img {
+		img{
 			margin-top: 35px;
 			max-height: 50%;
 			max-width: 50%;
 		}
 	}
->>>>>>> origin/master
 }
