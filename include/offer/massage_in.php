@@ -19,8 +19,7 @@
 			</ul>
 
 			<div class="tab-content">
-			  <div class="tab-pane active" id="Masaz1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo ullam voluptatum, iure illo pariatur dolores, laboriosam beatae qui et odio expedita nemo quo in quod dignissimos corporis ea tenetur necessitatibus.
-			  <img class="img-responsive" src="http://dummyimage.com/600x400/d12ed1/323dd1" alt="">
+			  <div class="tab-pane active" id="Masaz1">Celem masażu klasycznego jest zadziałanie bodźcami mechanicznymi na tkankę skórną oraz zakończenia nerwowe w niej występujące, na tkankę łączną, układy: ruchu (kości, mięśnie, ścięgna, więzadła, torebki stawowe), krwionośny i chłonny, a pośrednio na narządy wewnętrzne w celu wywołania w nich odczynów fizjologicznych. W zależności od zastosowanych technik można osiągnąć różne efekty m.in. leczniczy, regenerujący, przeciwbólowy, wyciszający lub pobudzający.
 			  </div>
 			  <div class="tab-pane" id="Masaz2">Zawartość drugiej karty Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae eius, quis autem in aperiam quia amet veniam. Consectetur, quis tempora, repellat dolore aspernatur dolorem quibusdam possimus incidunt ab deleniti aliquid.
 			  <img class="img-responsive" src="http://dummyimage.com/600x400/d12ed1/323dd1" alt="">

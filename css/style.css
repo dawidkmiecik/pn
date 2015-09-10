@@ -6885,3 +6885,63 @@ p {
   max-height: 50%;
   max-width: 50%;
 }
+.formularz label {
+  display: block;
+  /* ustawiamy by label rozpoczynał się od nowej linii*/
+  margin-bottom: 0px;
+  /* dodajemy margines dolny */
+  font-weight: bold;
+  /* pogrubiamy czcionkę */
+  /* zamieniamy wszystkie litery na duże */
+  font-size: 1.5rem;
+  /* ustawiamy wielkość czcionki */
+  color: black;
+  /* ustawiamy kolor czcionki */
+  font-family: 'Dosis', sans-serif;
+}
+.formularz textarea {
+  height: 50px;
+  width: 100%;
+  /* padding-bottom: 15px; */
+}
+.formularz input {
+  padding: 5px;
+  /* dodajemy margines wewnątrz naszego pola */
+  border-radius: 3px;
+  /* dodajemy zaokraglone rogi */
+  border: 2px solid #ccc;
+  /* dodajemy obramowanie */
+  margin-bottom: 15px;
+  /* dodajemy margines dolny */
+  width: 100%;
+  /* ustalamy szerokość */
+}
+.formularz input#submit {
+  width: 100%;
+  /* ustalamy szerokość */
+  cursor: pointer;
+  /* zmieniamy kursor */
+  margin-bottom: 40px;
+  /* resetujemy margines dolny */
+  margin-top: 15px;
+  font-size: 1.3rem;
+  font-family: 'Dosis', sans-serif;
+}
+.formularz p.copy {
+  color: #555555;
+  /* ustawiamy kolor czcionki */
+  margin-bottom: 0px;
+  /* resetujemy margines dolny */
+  font-size: 12px;
+  /* ustawiamy rozmiar czcionki */
+  text-align: center;
+  /* wyśrodkowywujemy tekst */
+}
+.formularz p.copy a {
+  color: #555555;
+  /* ustawiamy kolor czcionki */
+  text-decoration: none;
+  /* usuwamy podkreślenie linku */
+  font-weight: bold;
+  /* pogrubiamy czcionkę */
+}
