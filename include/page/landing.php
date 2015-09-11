@@ -84,7 +84,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<h2 class="text-center">Poznaj nas</h2>					
-						<div class="col-md-offset-3 col-md-6">
+						<div class="col-md-offset-2 col-md-8">
 							<div class="videoWrapper">
 							    <!-- Copy & Pasted from YouTube -->
 							    <iframe width="560" height="349" src="http://www.youtube.com/embed/n_dZNLr2cME?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
