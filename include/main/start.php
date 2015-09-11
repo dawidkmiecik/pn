@@ -6,6 +6,14 @@
   </div>
 </div>
 
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<a href="include/page/landing.php"><p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p></a>
+		</div>
+	</div>
+</div>
+
 
 <div class="container">
 	<div class="row">
