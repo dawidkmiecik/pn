@@ -6777,6 +6777,10 @@ h4,
 h5,
 h6 {
   font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  color: #2f343a;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 h1 a,
 h2 a,
@@ -6798,10 +6802,16 @@ h6 a:hover {
 p {
   color: #2f343a;
   font-family: 'sertigregular';
-  font-size: 1.6rem;
+  font-size: 1.7rem;
+}
+.top-null {
+  margin-top: 0px;
 }
 .margin-bottom {
   margin-bottom: 10px;
+}
+.margin-bottom-between {
+  margin-bottom: 15px;
 }
 .margin-bottom-min {
   margin-bottom: 20px;
@@ -6812,15 +6822,46 @@ p {
 .margin-top {
   margin-top: 10px;
 }
+.margin-top-between {
+  margin-top: 15px;
+}
 .margin-top-min {
   margin-top: 20px;
 }
 .margin-top-big {
   margin-top: 40px;
 }
+.navbar {
+  background-color: #73dd81;
+  margin-bottom: 0px;
+  border: none;
+  border-radius: none;
+  padding-bottom: 1.0rem;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #2f343a;
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -ms-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
+}
+.navbar-default .navbar-nav > li > a:hover {
+  color: #337ab7;
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -ms-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
+}
 .nav {
   font-family: 'Lato', sans-serif;
   font-size: 1.9rem;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.navbar {
+  border-radius: none;
 }
 .navbar-header {
   min-height: 18rem;
@@ -6845,25 +6886,79 @@ nav .collapse {
     padding-top: 0;
   }
 }
+.jumbotron {
+  margin-bottom: 0px;
+}
+.btn-jumbo {
+  border: 2px solid #fff;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Lato', sans-serif;
+  color: #2f343a;
+  font-size: 1.7rem;
+  background: #73dd81;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -ms-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
+}
+.btn-jumbo:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -ms-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
+}
+.salesBackground {
+  background-color: #73dd81;
+  padding: 1.3rem 0 1.0rem 0;
+}
 .sales a {
   text-decoration: none;
+}
+.sales .salesContent {
+  font-size: 1.7rem;
+  font-family: 'Lato', sans-serif;
 }
 .sales .salesContent a {
   text-decoration: none;
   color: #2f343a;
 }
 .sales .salesLabel {
-  background-color: #F0B300;
+  background-color: #73dd81;
   color: #333333;
   -webkit-transition: 0.4s;
   -o-transition: 0.4s;
   transition: 0.4s;
+  font-size: 1.7rem;
+  font-family: 'Lato', sans-serif;
 }
 .sales .salesLabel:hover {
-  color: #64a0d3;
+  color: #337ab7;
   -webkit-transition: 0.4s;
   -o-transition: 0.4s;
   transition: 0.4s;
+}
+.readMore span {
+  font-size: 1.2rem;
+  margin-left: 5px;
+}
+#tabs li {
+  font-size: 1.6rem;
+}
+#Masaz1 span {
+  padding-left: 10px;
 }
 .contactH2 h2 {
   position: relative;

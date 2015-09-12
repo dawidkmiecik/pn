@@ -1,6 +1,7 @@
 // Color green 
 @colorGreen: #73dd81;
 @colorText: #2f343a;
+@colorNavbar: #333333;
 
 // General rules
 html {
@@ -14,6 +15,10 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  color: @colorText;
+  margin-top: 0px;
+  margin-bottom: 0px;
 
   a {
     color: @colorText;
@@ -27,12 +32,20 @@ h1, h2, h3, h4, h5, h6 {
 p {
   color: @colorText;
   font-family: 'sertigregular';
-  font-size: 1.6rem;
+  font-size: 1.7rem;
 } 
 
 // Margin class
+
+.top-null {
+  margin-top: 0px;
+}
 .margin-bottom {
 	margin-bottom: 10px;
+}
+
+.margin-bottom-between {
+  margin-bottom: 15px;
 }
 
 .margin-bottom-min {
@@ -47,6 +60,10 @@ p {
 	margin-top: 10px;
 }
 
+.margin-top-between {
+  margin-top: 15px;
+}
+
 .margin-top-min {
 	margin-top: 20px;
 } 
@@ -57,13 +74,45 @@ p {
 
 // General rules end
 
-// Navbar - menu
+// Navbar - menu and tabs on massage, cuz nav is the same class on tabs.
+.navbar {
+  background-color: @colorGreen;
+  margin-bottom: 0px;
+  border: none;
+  border-radius: none;
+  padding-bottom: 1.0rem;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: @colorText;
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -ms-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
+
+  &:hover {
+    color: @link-color;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -ms-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
+  }
+}
 
 .nav {
   font-family: 'Lato', sans-serif;
   font-size: 1.9rem;
+  text-transform: uppercase;
+  font-weight: bold;
 }
 
+.navbar {
+  border-radius: none;
+} 
+
+//UWAGA BORDER-RADIUS W CSS GOTOWYM DO ZLIKIWODWANIA W NAVBAR - ZBADAJ ELMENT
 
 .navbar-header{
     min-height: 18rem;
@@ -94,17 +143,65 @@ nav .collapse{
     padding-top: 0;
   }
 }
+
 // Navbar - menu end
+
+
+// Jumobtron
+
+.jumbotron {
+  margin-bottom: 0px;
+}
+
+.btn-jumbo {
+  border: 2px solid #fff;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Lato', sans-serif;
+  color: @colorText;
+  font-size: 1.7rem;
+  background: #73dd81;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -ms-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
+}
+
+.btn-jumbo:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -ms-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
+}
+
 
 // Sales
 
-.sales
-  {
+.salesBackground {
+  background-color: @colorGreen;
+  padding: 1.3rem 0 1.0rem 0;
+}
+
+.sales {
     a{
       text-decoration: none;
     }
 
   .salesContent {
+    font-size: 1.7rem;
+    font-family: 'Lato', sans-serif;
     a {
       text-decoration: none;
       color: @colorText;
@@ -112,12 +209,14 @@ nav .collapse{
   }
 
   .salesLabel {
-    background-color: #F0B300;
+    background-color: @colorGreen;
     color: #333333;
     .transition(.4s);
+    font-size: 1.7rem;
+    font-family: 'Lato', sans-serif;
 
   &:hover {
-    color: lighten(@link-color, 15%);
+    color: @link-color;
     .transition(.4s);
 
     }//&:hover
@@ -127,6 +226,27 @@ nav .collapse{
 }
 
 // Sales end
+
+
+// Star.php - Main site 
+
+.readMore {
+  span{
+    font-size: 1.2rem;
+    margin-left: 5px;
+  }
+}
+
+// Massage site 
+
+#tabs li {
+  font-size: 1.6rem;
+}
+
+#Masaz1 span {
+  padding-left: 10px;
+}
+
 
 // Contact
 

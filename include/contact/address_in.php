@@ -16,17 +16,18 @@
 	<div class="row">
 		<div class="col-md-3 text-center contactText">
 			<div class="contactCircle">
-				<img src="img/mail.png" class="img-responsive center-block text-center" alt="">
-			</div>
-			<h3 class="text-center margin-top-big">EMAIL</h3>
-			<p class="text-center">mail@exmaple</p>
-		</div>
-		<div class="col-md-3 text-center contactText">
-			<div class="contactCircle">
 				<img src="img/telephone.png" class="img-responsive center-block text-center" alt="">
 			</div>
 			<h3 class="text-center margin-top-big">TELEFON</h3>
 			<p class="text-center">888 888 888</p>
+		</div>
+
+		<div class="col-md-3 text-center contactText">
+			<div class="contactCircle">
+				<img src="img/mail.png" class="img-responsive center-block text-center" alt="">
+			</div>
+			<h3 class="text-center margin-top-big">EMAIL</h3>
+			<p class="text-center">mail@exmaple</p>
 		</div>
 		<div class="col-md-3 text-center contactText">
 			<div class="contactCircle">

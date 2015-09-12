@@ -41,8 +41,8 @@
 		      <ul class="nav navbar-nav navbar-right">
 		        <li><a href="index.php">Start</a></li>
 		        <li><a href="about.php">O nas</a></li>
+		         <li><a href="rehabilitation.php">Rehabilitacja</a></li>
 		        <li><a href="massage.php">Masaże</a></li>
-		        <li><a href="rehabilitation.php">Rehabilitacja</a></li>
 		        <li><a href="contact.php">Kontakt</a></li>
 		      </ul>
 		    </div><!-- /.navbar-collapse -->

@@ -45,8 +45,8 @@
 		    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 		      <ul class="nav navbar-nav navbar-left" style="line-height: 18rem;">
 		        <li><a href="index.php">Start</a></li>
-		        <li><a href="massage.php">Masaże</a></li>
-		        <li><a href="rehabilitation.php">Rehabilitacja</a></li>
+		         <li><a href="rehabilitation.php">Rehabilitacja</a></li>
+		        <li><a href="massage.php">Masaże</a></li>   
 		      </ul>
 
 		      <ul class="nav navbar-nav navbar-right">
