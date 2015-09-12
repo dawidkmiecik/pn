@@ -1,11 +1,34 @@
+// Color green 
+@colorGreen: #73dd81;
+@colorText: #2f343a;
 
+// General rules
 html {
 	font-size: 62.5%;
 }
 
 body {
-  background-color: #73DD81;
+  background-color: #fff;
 }
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lato', sans-serif;
+
+  a {
+    color: @colorText;
+    &:hover {
+      text-decoration: none;
+      color: @link-color;
+    }
+  }
+}
+
+p {
+  color: @colorText;
+  font-family: 'sertigregular';
+  font-size: 1.6rem;
+} 
 
 // Margin class
 .margin-bottom {
@@ -32,11 +55,82 @@ body {
 	margin-top: 40px;
 }
 
+// General rules end
+
+// Navbar - menu
+
+.nav {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.9rem;
+}
+
+
+.navbar-header{
+    min-height: 18rem;
+}
+
+.navbar-inner{
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-align:center;
+  width: 100%;
+}
+
+.nav-center {
+    img{
+      height: 15rem;
+      margin-top: 1.5rem;
+    }
+}
+
+nav .collapse{
+  padding-top: 8rem;
+  min-height: 18rem;
+}
+
+@media all and (max-width:  768px) {
+  nav .collapse{
+    padding-top: 0;
+  }
+}
+// Navbar - menu end
+
+// Sales
+
+.sales
+  {
+    a{
+      text-decoration: none;
+    }
+
+  .salesContent {
+    a {
+      text-decoration: none;
+      color: @colorText;
+    }
+  }
+
+  .salesLabel {
+    background-color: #F0B300;
+    color: #333333;
+    .transition(.4s);
+
+  &:hover {
+    color: lighten(@link-color, 15%);
+    .transition(.4s);
+
+    }//&:hover
+
+  }//label
+
+}
+
+// Sales end
 
 // Contact
 
 .contactH2 {
-	color: #006967;
 	h2 {
 		position: relative;
 		:after	{
@@ -47,7 +141,7 @@ body {
 		    position: absolute;
 		    bottom: -50px;
 		    left: 0;
-		    background-color: white;
+		    background-color: @colorGreen;
 		    margin-right: 45%;
 		    margin-left: 45%;
 		}
@@ -70,7 +164,7 @@ body {
 		-webkit-border-radius: 150px 150px 150px 150px;
 		border-radius: 150px 150px 150px 150px;
 		display: inline-block;
-		border: 2px solid #FDFDFD;
+		border: 2px solid @colorGreen;
 		img{
 			margin-top: 35px;
 			max-height: 50%;
@@ -78,6 +172,8 @@ body {
 		}
 	}
 }
+
+// Contact end
 
 // Footer
 .formularz label {
@@ -98,6 +194,7 @@ body {
 .formularz textarea {
   height: 50px;
   width: 100%;
+  border: 2px solid @colorGreen;
   /* padding-bottom: 15px; */
 }
 .formularz input {
@@ -105,7 +202,7 @@ body {
   /* dodajemy margines wewnątrz naszego pola */
   border-radius: 3px;
   /* dodajemy zaokraglone rogi */
-  border: 2px solid #ccc;
+  border: 2px solid #73dd81;
   /* dodajemy obramowanie */
   margin-bottom: 15px;
   /* dodajemy margines dolny */
@@ -143,5 +240,5 @@ body {
   /* pogrubiamy czcionkę */
 }
 
-
+// Footer end
 

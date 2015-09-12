@@ -39,7 +39,7 @@
 					<p>ul. Czarnieckiego 54</p>
 					<p>62-040 Puszczykowo</p>
 				</div><!-- caption -->
-				<img class="responsive" width="100%" src="img/1.jpg">
+				<img class="responsive" width="100%" src="img/5.jpg">
 			</div><!-- thumb-box -->
 		</div><!-- col-md-4 -->
 		<div class="col-md-4">

@@ -5,7 +5,6 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Procjet Piotr Nowak</title>
-		<link href="../../css/bootstrap.css" rel="stylesheet">
 		<link href="../../css/landing.css" rel="stylesheet">
 
 		<script src="http://code.jquery.com/jquery-latest.min.js"></script> 
@@ -62,17 +61,17 @@
 		<div class="container landingSection" > 
 			<div class="row">
 				<div class="col-sm-4">
-					<img src="../../img/headerfoto2.png" alt="logo">
+					<img src="../../img/headerfoto1.jpg" alt="logo">
 					<h2 class="text-center">Header 1</h2>
 					<p class="text-justify">iet quisquam voluptate rem debitis harum, iure, id culpa ullam autem enim dolores recusandae, magnam tempora molestias nesciunt commodi suscipit expedita consequatur maiores vero veritatis, ea voluptates. Nisi error ut id distinctio officiis temporibus rem fugit aspernatur eligendi sequi sed pariatur illum, doloribus tempora, dolor sit vero quis omnis cumque aliquam velit tenetur possimus similique! Quam blanditiis sint perferendis reiciendis quisquam, velit nobis rem, sunt, laborum corporis eum ipsum ex at quo ratione quas nam maiores laudantium adipisci nesciunt reprehenderit veritatis ea asperiores odit. Facilis, necessitatibus, optio.</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="../../img/headerfoto3.png" alt="logo">
+					<img src="../../img/headerfoto2.jpg" alt="logo">
 					<h2 class="text-center">Header 2</h2>
 					<p class="text-justify">iet quisquam voluptate rem debitis harum, iure, id culpa ullam autem enim dolores recusandae, magnam tempora molestias nesciunt commodi suscipit expedita consequatur maiores vero veritatis, ea voluptates. Nisi error ut id distinctio officiis temporibus rem fugit aspernatur eligendi sequi sed pariatur illum, doloribus tempora, dolor sit vero quis omnis cumque aliquam velit tenetur possimus similique! Quam blanditiis sint perferendis reiciendis quisquam, velit nobis rem, sunt, laborum corporis eum ipsum ex at quo ratione quas nam maiores laudantium adipisci nesciunt reprehenderit veritatis ea asperiores odit. Facilis, necessitatibus, optio.</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="../../img/headerfoto1.png" alt="logo">
+					<img src="../../img/headerfoto3.jpg" alt="logo">
 					<h2 class="text-center">Header 3</h2>
 					<p class="text-justify">iet quisquam voluptate rem debitis harum, iure, id culpa ullam autem enim dolores recusandae, magnam tempora molestias nesciunt commodi suscipit expedita consequatur maiores vero veritatis, ea voluptates. Nisi error ut id distinctio officiis temporibus rem fugit aspernatur eligendi sequi sed pariatur illum, doloribus tempora, dolor sit vero quis omnis cumque aliquam velit tenetur possimus similique! Quam blanditiis sint perferendis reiciendis quisquam, velit nobis rem, sunt, laborum corporis eum ipsum ex at quo ratione quas nam maiores laudantium adipisci nesciunt reprehenderit veritatis ea asperiores odit. Facilis, necessitatibus, optio.</p>
 				</div>
@@ -94,6 +93,43 @@
 				</div>
 			</div>
 		</div>
+
+<div class="container">
+	<div class="row">
+		<h1 class="text-center">Kontakt</h1>
+
+		<div class="col-md-4">
+			<div class="thumb-box">
+				<div class="caption text-center">
+					<p>Adres:</p>
+					<p>ul. Czarnieckiego 54</p>
+					<p>62-040 Puszczykowo</p>
+				</div><!-- caption -->
+				<img class="responsive" width="100%" src="../../img/6.jpg">
+			</div><!-- thumb-box -->
+		</div><!-- col-md-4 -->
+		<div class="col-md-4">
+			<div class="thumb-box">
+				<div class="caption text-center">
+					<p>Adres:</p>
+					<p>ul. Czarnieckiego 54</p>
+					<p>62-040 Puszczykowo</p>
+				</div><!-- caption -->
+				<img class="responsive" width="100%" src="../../img/5.jpg">
+			</div><!-- thumb-box -->
+		</div><!-- col-md-4 -->
+		<div class="col-md-4">
+			<div class="thumb-box">
+				<div class="caption text-center">
+					<p>Adres:</p>
+					<p>ul. Czarnieckiego 54</p>
+					<p>62-040 Puszczykowo</p>
+				</div><!-- caption -->
+				<img class="responsive" width="100%" src="../../img/6.jpg">
+			</div><!-- thumb-box -->
+		</div><!-- col-md-4 -->
+	</div>
+</div>
 	</body>
 </html>
 
