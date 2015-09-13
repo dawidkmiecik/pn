@@ -6957,8 +6957,19 @@ nav .collapse {
 #tabs li {
   font-size: 1.6rem;
 }
-#Masaz1 span {
+#Massage1 p {
+  font-family: 'sertigregular';
+}
+#Massage1 span {
   padding-left: 10px;
+}
+#impact li {
+  font-family: 'sertigregular';
+  font-size: 1.7rem;
+}
+#indications li {
+  font-family: 'sertigregular';
+  font-size: 1.7rem;
 }
 .contactH2 h2 {
   position: relative;
