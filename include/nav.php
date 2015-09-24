@@ -8,7 +8,8 @@
 		<link href="css/fonts.css" rel="stylesheet">
 		<link href="css/style.css" rel="stylesheet">
 
-		<script src="http://code.jquery.com/jquery-latest.min.js"></script> 
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+		<script type="text/javascript"src="js/jquery.shorten.js"></script> 
 		<script src="js/transition.js"></script>
 		<script src="js/affix.js"></script>
 		<script src="js/alert.js"></script>
@@ -25,10 +26,10 @@
 	<body>
 
 		<nav class="navbar navbar-default">
-		  <div class="container-fluid">
+		  <div class="container">
 		  <!-- Grupowanie "marki" i przycisku rozwijania mobilnego menu -->
 		    <div class="navbar-header">
-		      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+		        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
 		        	<span class="sr-only">Rozwiń nawigację</span>
 		        	<span class="icon-bar"></span>
 		        	<span class="icon-bar"></span>
@@ -36,7 +37,7 @@
 		      	</button>
 			  	<div class="navbar-inner">
             		<div class="nav-center">
-	                	<a href="index.php" nav-center><img src="img/logoduze.png"></a>
+	                	<a href="index.php"><img class="img-responsive custom-center-block" src="img/logoduze.png"><h1 class="hidden">Piotr Nowak Rehabilitacja & Masaż</h1></a>
 	            	</div>
 	            </div>
 		    </div>
@@ -46,12 +47,12 @@
 		      <ul class="nav navbar-nav navbar-left" style="line-height: 18rem;">
 		        <li><a href="index.php">Start</a></li>
 		         <li><a href="rehabilitation.php">Rehabilitacja</a></li>
-		        <li><a href="massage.php">Masaże</a></li>   
+		        <li><a href="massage.php">Masaż</a></li>   
 		      </ul>
 
 		      <ul class="nav navbar-nav navbar-right">
-		        <li><a href="about.php">O nas</a></li>
-		        <li><a href="#">Współpraca</a></li>
+		        <li><a href="about.php">O mnie</a></li>
+		        <li><a href="price.php">Cennik</a></li>
 		        <li><a href="contact.php">Kontakt</a></li>
 		      </ul>
 		    </div><!-- /.navbar-collapse -->

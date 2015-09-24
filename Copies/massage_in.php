@@ -2,7 +2,7 @@
 	<div class="row">
 		<div class="col-md-12">
 			<h2 class="text-center margin-top-big margin-bottom-between">Masaże</h2>
-			<p class="margin-bottom-big">Masażem nazywamy oddziaływanie bodźcami mechanicznymi na tkanki organizmu, przy biernym zachowaniu masowanego. Masażem leczniczym, nazwiemy taki sposób wykonywania masażu, który przyczyni się do poprawy psychofizycznej sprawności chorego. Znajduje on zastosowanie w profilaktyce, leczeniu i rehabilitacji chorób z zakresu ortopedii, neurologii, ginekologii, pediatrii ,chorób wewnętrznych, a także w sporcie. Masaż jest jedną z najstarszych dziedzin wiedzy lekarskiej. Wywodzi się z Indii i Chin, gdzie wchodził w zakres rytuału religijnego. Już 3000 lat p.n.e. odnotowano w chińskim Kung-Fu wzmiankę o leczeniu za pomocą masażu.</p>
+			<p class="margin-bottom-big">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum dignissimos deleniti iure inventore aspernatur voluptas explicabo eligendi dolorem excepturi commodi neque totam atque itaque recusandae adipisci, nesciunt est soluta sed suscipit minus quis molestias ea illo. Magni totam, doloribus autem? .Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, laborum deleniti minus natus molestiae eaque expedita quaerat blanditiis adipisci molestias nisi excepturi laudantium placeat maxime voluptate officiis in! Qui, facilis?</p>
 		</div>
 	</div>
 </div>
@@ -375,22 +375,20 @@
 			  		<span>Polega</span> na zastosowaniu określonych technik, wykonywanych w formie przepychającej (przesuwającej, wyciskającej, tłoczącej) w celu usprawnienia krążenia limfy. Do głównych zadań masażu należy: przeciwdziałanie lub likwidacja obrzęków zapalnego, chłonnego, zastoinowego czy onkotycznego oraz przyspieszenie usunięcia z organizmu produktów przemiany materii. W masażu limfatycznym stosowane są techniki masażu klasycznego (głaskanie, rozcieranie, ugniatanie szczypcowe, wyciskanie), masażu segmentarnego (rozcieranie koliste) oraz techniki drenażowe (ugniatanie przepychające i uciski falujące), a także „pompowanie”. Poszczególne techniki stosuje się w tempie wolnym, masując od obwodu w kierunku dużych węzłów chłonnych, które co najmniej dwa razy należy opracować
 			  	</p>
 
-				<div class="panel-group margin-top-min" id="accordion3" role="tablist" aria-multiselectable="true">
+				<div class="panel-group" id="accordion3" role="tablist" aria-multiselectable="true">
 
 					<div class="panel panel-default">
 						<div class="panel-heading" role="tab" id="headingOne">
 							<h4 class="panel-title">
 								<a role="button" data-toggle="collapse" data-parent="#accordion3" href="#collapseOneTab3" aria-expanded="true" aria-controls="collapseOne">
-									Czym jest układ limfatyczny ?<span></span>
+									Czym jest układ limfatyczny ?
 								</a>
 							</h4>
 						</div>
 
 						<div id="collapseOneTab3" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
 							<div class="panel-body">
-								<p>
-									<strong>Układ limfatyczny</strong> lub inaczej <strong>układ chłonny</strong> – otwarty układ naczyń i przewodów, którymi płynie jeden z płynów ustrojowych– limfa, która bierze swój początek ze śródmiąższowego przesączu znajdującego się w tkankach. Układ naczyń chłonnych połączony jest z układem krążenia krwi. Oprócz układu naczyń chłonnych w skład układu limfatycznego wchodzą także narządy i tkanki limfatyczne. Najważniejszą funkcją układu chłonnego jest obrona przed zakażeniami oraz cyrkulacja płynów ustrojowych. Limfa porusza się w naczyniach limfatycznych za pomocą mięśni. Układ limfatyczny podobny jest do układu żylnego, ale brakuje mu pompy napędzającej, jaką jest serce. Chłonka płynie dzięki różnicy ciśnień w organizmie i pracy mięśni, dlatego tak łatwo dochodzi do jej zastoju.
-								</p>
+								<stromg>Układ limfatyczny</strong> lub inaczej <strong>układ chłonny</strong> – otwarty układ naczyń i przewodów, którymi płynie jeden z płynów ustrojowych– limfa, która bierze swój początek ze śródmiąższowego przesączu znajdującego się w tkankach. Układ naczyń chłonnych połączony jest z układem krążenia krwi. Oprócz układu naczyń chłonnych w skład układu limfatycznego wchodzą także narządy i tkanki limfatyczne. Najważniejszą funkcją układu chłonnego jest obrona przed zakażeniami oraz cyrkulacja płynów ustrojowych. Limfa porusza się w naczyniach limfatycznych za pomocą mięśni. Układ limfatyczny podobny jest do układu żylnego, ale brakuje mu pompy napędzającej, jaką jest serce. Chłonka płynie dzięki różnicy ciśnień w organizmie i pracy mięśni, dlatego tak łatwo dochodzi do jej zastoju.
 							</div>
 						</div>
 					</div>
@@ -399,15 +397,13 @@
 						<div class="panel-heading" role="tab" id="headingTwo">
 							<h4 class="panel-title">
 								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion3" href="#collapseTwoTab3" aria-expanded="false" aria-controls="collapseTwoTab3">
-								Co może powodować obrzęk limfatyczny ?<span></span>
+								Co może powodować obrzęk limfatyczny ?
 								</a>
 							</h4>
 						</div>
 						<div id="collapseTwoTab3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 							<div class="panel-body">
-								<p>
-									Powodem powstawania obrzęków może być wysoka temperatura, brak ruchu, bogata w sól dieta, zbyt mała ilość wypijanej wody. Podobne efekty wywołuje nadmiar wypitego alkoholu oraz długa podróż samochodem bądź samolotem. Ciężkie, zmęczone i opuchnięte nogi po całym dniu – takiego uczucia doświadcza ponad połowa Polek. To objawy zaburzonego krążenia krwi i limfy w nogach.
-								</p>
+								Powodem powstawania obrzęków może być wysoka temperatura, brak ruchu, bogata w sól dieta, zbyt mała ilość wypijanej wody. Podobne efekty wywołuje nadmiar wypitego alkoholu oraz długa podróż samochodem bądź samolotem. Ciężkie, zmęczone i opuchnięte nogi po całym dniu – takiego uczucia doświadcza ponad połowa Polek. To objawy zaburzonego krążenia krwi i limfy w nogach
 							</div>
 						</div>
 					</div>
@@ -416,127 +412,56 @@
 						<div class="panel-heading" role="tab" id="headingThree">
 							<h4 class="panel-title">
 								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion3" href="#collapseThreeTab3" aria-expanded="false" aria-controls="collapseThreeTab3">
-								Co można osiągnąć stosując drenaż limfatyczny ?<span></span>
+								Co można osiągnąć stosując drenaż limfatyczny ? 
 								</a>
 							</h4>
 						</div>
 						<div id="collapseThreeTab3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
 							<div class="panel-body">
-								<p>
-									Zabieg drenażu ma działanie ogólnoustrojowe. Przywraca równowagę wodno-elektrolitową w przestrzeniach międzykomórkowych i nie pozwala na gromadzenie się złogów. <strong>Wymusza odprowadzanie limfy, a wraz z nią produktów przemiany materii.</strong> Są one transportowane do narządów filtrujących, a następnie wydalane z moczem. Dlatego po zabiegu można odczuwać wzmożoną moczopędność. Ponadto drenaż odżywia i dotlenia organizm. Doskonale nadaje się do walki z ociężałością nóg. <strong>Po zabiegu pacjent czuje się lekki, odprężony i ożywiony.</strong>  Drenaż przede wszystkim jest zabiegiem stosowanym w przypadkach istniejących <strong>obrzęków i zastoin limfatycznych.</strong>
-									<br />
-									<br />
-									<strong>Celem</strong> tego masażu jest mechaniczne udrożnienie węzłów chłonnych i przepchnięcie w ich kierunku zalegającej chłonki oraz  umożliwienie napływu świeżej, bogatej w tlen krwi tętniczej. Drenaż limfatyczny także poprawia funkcjonowanie układu immunologicznego oraz przyczynia się szybszego do usuwania toksyn z organizmu.
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="panel panel-default">
-						<div class="panel-heading" role="tab" id="headingTwo">
-							<h4 class="panel-title">
-								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion3" href="#collapseTwoTab4" aria-expanded="false" aria-controls="collapseTwoTab4">
-								Wskazania do manualnego drenażu limfatycznego:<span></span>
-								</a>
-							</h4>
-						</div>
-						<div id="collapseTwoTab4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-							<div class="panel-body">
-								<ul>
-				        	<li>Obrzęki limfatyczne,</li>
-				        	<li>Obrzęki tłuszczowe,</li>
-				        	<li>Wysięki,</li>
-				        	<li>Zmiany skórne spowodowane zaburzeniami krążenia limfy,</li>
-				        	<li>Obrzęki pourazowe i pooperacyjne,</li>
-				        	<li>Profilaktyka zakrzepicy żylnej, również przedoperacyjnej,</li>
-				        	<li>Profilaktyka przewlekłej niewydolności żylnej,</li>
-				        	<li>Zespoły poza zakrzepowe,</li>
-				        	<li>Wrzody żylne,</li>
-				        	<li>W leczeniu niewydolności limfatycznej wrodzonej (wczesnej i późnej) oraz nabytej (pourazowej),</li>
-				        	<li>W leczeniu kończyn dolnych o różnej etiologii,</li>
-				        	<li>Obrzęki po schorzeniach (stopa cukrzycowa, zespół Sudecka),</li>
-				        	<li>Chroniczny obrzęk zapalny towarzyszący reumatyzmowi, chorobie zwyrodnienia stawów itp,</li>
-				        	<li>Obrzęk towarzyszący ciąży (konieczność wykluczenia choroby nerek), obszarów jakie obejmują,</li>
-				        	<li>Obrzęk lipidowy (bolesny obrzęk tkanki tłuszczowej z towarzyszeniem uczucia ciężkości i napięcia skóry).</li>
-				        </ul> 
-							</div>
-						</div>
-					</div>
-					<div class="panel panel-default">
-						<div class="panel-heading" role="tab" id="headingTwo">
-							<h4 class="panel-title">
-								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion3" href="#collapseTwoTab5" aria-expanded="false" aria-controls="collapseTwoTab5">
-								O czym należy pamiętać w przypadku kończyn dotkniętych lub narażonych na obrzęk ?<span></span>
-								</a>
-							</h4>
-						</div>
-						<div id="collapseTwoTab5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-							<div class="panel-body">
-								<ul>
-				        	<li>
-				        		rany (ukłucia owada, iniekcje, praca w kuchni i ogrodzie),</li>
-				        	<li>nadmierne przeciążenie w pracy i w domu,
-				        	</li>
-				        	<li>
-				        		przeciążenia na skutek wysiłku sportowego (niewskazany wysiłek maksymalny, zalecany trening z przerwami),
-				        	</li>
-				        	<li>
-				        		nadmierne przegrzanie organizmu (oparzenie słoneczne, źródła termalne, sauna),
-				        	</li>
-				        	<li>
-				        		odmrożenia,
-				        	</li>
-				        	<li>
-				        		infekcje lokalne (profilaktyka róży przyrannej i grzybic),
-				        	</li>
-				        	<li>
-				        		egzemy na tle alergicznym,
-				        	</li>
-				        	<li>
-				        		zabiegi operacyjne (jedynie te, które umożliwiają pacjentowi zaspokojenie
-								podstawowych potrzeb życiowych),
-							</li>
-				        	<li>
-				        		zbyt mocno obciskającą odzież,
-				        	</li>
-				        	<li>
-				        		ciężkie protezy piersi przy obrzęku kończyny górnej,
-				        	</li>
-				        	<li>
-				        		nadwagę przy obrzękach limfatycznych kończyn dolnych.
-				        	</li>
-				        </ul>
+								Zabieg drenażu ma działanie ogólnoustrojowe. Przywraca równowagę wodno-elektrolitową w przestrzeniach międzykomórkowych i nie pozwala na gromadzenie się złogów. <strong>Wymusza odprowadzanie limfy, a wraz z nią produktów przemiany materii.</strong> Są one transportowane do narządów filtrujących, a następnie wydalane z moczem. Dlatego po zabiegu można odczuwać wzmożoną moczopędność. Ponadto drenaż odżywia i dotlenia organizm. Doskonale nadaje się do walki z ociężałością nóg. <strong>Po zabiegu pacjent czuje się lekki, odprężony i ożywiony.</strong>  Drenaż przede wszystkim jest zabiegiem stosowanym w przypadkach istniejących <strong>obrzęków i zastoin limfatycznych.</strong>
+								<br />
+								<br />
+								<strong>Celem</strong> tego masażu jest mechaniczne udrożnienie węzłów chłonnych i przepchnięcie w ich kierunku zalegającej chłonki oraz  umożliwienie napływu świeżej, bogatej w tlen krwi tętniczej. Drenaż limfatyczny także poprawia funkcjonowanie układu immunologicznego oraz przyczynia się szybszego do usuwania toksyn z organizmu.
 							</div>
 						</div>
 					</div>
 				</div>
-			
-
 			</div>
 
-			<div class="tab-pane margin-top-min" id="Massage3">
+			  <div class="tab-pane margin-top-min" id="Massage3">
 			  	<p>
 			  		<span><strong>Masaż sportowy</strong></span>  –  można podzielić na masaż treningowy, przed zawodami, startowy oraz powysiłkowy. Oparty jest na technikach masażu klasycznego i w zależności od tego co chcemy osiągnąć stosuje się odpowiednio dobrane techniki oraz intensywność wykonywania masażu.
 			  	</p>
-			  	<h3 class="text-center margin-bottom-between margin-top-between">Komu jest zalecany masaż sportowy ?</h3>
-			  	<p>
-			  		Masaż sportowy polecany jest <strong>nie tylko profesjonalnym</strong> sportowcom. W celu osiągnięcia lepszych wyników sportowych czy nawet poprawy własnego samopoczucia, korzystać z niego powinni również <strong>sportowcy- amatorzy.</strong> Od wielu lat stał się on niezbędnym elementem w procesie treningowym sportowców. Pozwala zwalczyć skutki zmęczenia spowodowane wysiłkiem fizycznym. Masaż zmęczonego mięśnia pomaga rozluźnić go i zapobiega późniejszym uszkodzeniom.  Nie ma znaczenia jaką dyscyplinę sportową uprawiasz. Może to być bieganie, jazda na rowerze czy rolkach.  W tych przypadkach ( i wielu innych ) masaż kończyn dolnych na pewno Ci się przyda i poczujesz o ile szybciej się zregenerujesz w porównaniu do ciężkich, wyczerpujących treningów , po których nie korzystałaś/eś z usług masażysty.
-			  	</p>
+			  	<div class="panel-group" id="accordion4" role="tablist" aria-multiselectable="true">
+				  <div class="panel panel-default">
+				    <div class="panel-heading" role="tab" id="headingOne">
+				      <h4 class="panel-title">
+				        <a role="button" data-toggle="collapse" data-parent="#accordion4" href="#collapseOneTab5" aria-expanded="true" aria-controls="collapseOne">
+				          Komu jest zalecany masaż sportowy ? 
+				        </a>
+				      </h4>
+				    </div>
+				    <div id="collapseOneTab5" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+				      <div class="panel-body">
+				        Masaż sportowy polecany jest <strong>nie tylko profesjonalnym</strong> sportowcom. W celu osiągnięcia lepszych wyników sportowych czy nawet poprawy własnego samopoczucia, korzystać z niego powinni również <strong>sportowcy- amatorzy.</strong> Od wielu lat stał się on niezbędnym elementem w procesie treningowym sportowców. Pozwala zwalczyć skutki zmęczenia spowodowane wysiłkiem fizycznym. Masaż zmęczonego mięśnia pomaga rozluźnić go i zapobiega późniejszym uszkodzeniom.  Nie ma znaczenia jaką dyscyplinę sportową uprawiasz. Może to być bieganie, jazda na rowerze czy rolkach.  W tych przypadkach ( i wielu innych ) masaż kończyn dolnych na pewno Ci się przyda i poczujesz o ile szybciej się zregenerujesz w porównaniu do ciężkich, wyczerpujących treningów , po których nie korzystałaś/eś z usług masażysty. 
+				      </div>
+				    </div>
+				  </div>
 
+				</div>
 				<h3 class="text-center">Masaż sportowy występuje w kilku formach:</h3>
 				<div class="panel-group" id="accordion6" role="tablist" aria-multiselectable="true">
 				  <div class="panel panel-default">
 				    <div class="panel-heading" role="tab" id="headingOne">
 				      <h4 class="panel-title">
 				        <a role="button" data-toggle="collapse" data-parent="#accordion6" href="#collapseOneTab6" aria-expanded="true" aria-controls="collapseOne">
-				          MASAŻ TRENINGOWY<span></span>
+				          MASAŻ TRENINGOWY 
 				        </a>
 				      </h4>
 				    </div>
 				    <div id="collapseOneTab6" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
 				      <div class="panel-body">
-				        <p>
-				        	Zwany taż przygotowawczym lub kondycyjnym, który stosuje się go w trakcie całego cyklu treningowo-startowego. Celem wykonywania masażu treningowego jest rozwijanie zdolności zawodnika do pracy, zwiększenie możliwości czynnościowych organizmu. Masaż treningowy należy wykonywać w 1,5-6 godzin po intensywnym treningu.
-				        </p>
+				        Można podzielić na masaż treningowy, przed zawodami, startowy oraz powysiłkowy. Oparty jest na technikach masażu klasycznego i w zależności od tego co chcemy osiągnąć stosuje się odpowiednio dobrane techniki oraz intensywność wykonywania masażu.
 				      </div>
 				    </div>
 				  </div>
@@ -544,15 +469,13 @@
 				    <div class="panel-heading" role="tab" id="headingTwo">
 				      <h4 class="panel-title">
 				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion6" href="#collapseTwoTab6" aria-expanded="false" aria-controls="collapseTwo">
-				          MASAŻ PRZED ZAWODAMI<span></span>
+				          MASAŻ PRZED ZAWODAMI 
 				        </a>
 				      </h4>
 				    </div>
 				    <div id="collapseTwoTab6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 				      <div class="panel-body">
-				        <p>
-				        	Wykonywany powinien być na dwa dni przed startem, celem tego rodzaju masażu jest osiągnięcie maksymalnej gotowości startowej.
-				        </p>
+				        Wykonywany powinien być na dwa dni przed startem, celem tego rodzaju masażu jest osiągnięcie maksymalnej gotowości startowej.
 				      </div>
 				    </div>
 				  </div>
@@ -561,15 +484,13 @@
 				    <div class="panel-heading" role="tab" id="headingThree">
 				      <h4 class="panel-title">
 				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion6" href="#collapseThreeTab6" aria-expanded="false" aria-controls="collapseThree">
-				          MASAŻ STARTOWY<span></span>
+				          MASAŻ STARTOWY 
 				        </a>
 				      </h4>
 				    </div>
 				    <div id="collapseThreeTab6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
 				      <div class="panel-body">
-				        <p>
-				        	Zwany przed wysiłkowym, mobilizującym, normalizującym. Stosuje się go przed startem, przed rozgrzewką. Ten rodzaj masażu pomaga w szybkim i głębokim rozgrzaniu mięśni, zwiększa ich elastyczność oraz zdolność skurczową.
-				        </p>
+				        Zwany przed wysiłkowym, mobilizującym, normalizującym. Stosuje się go przed startem, przed rozgrzewką. Ten rodzaj masażu pomaga w szybkim i głębokim rozgrzaniu mięśni, zwiększa ich elastyczność oraz zdolność skurczową.
 				      </div>
 				    </div>
 				  </div>
@@ -579,15 +500,13 @@
 				    <div class="panel-heading" role="tab" id="headingFour">
 				      <h4 class="panel-title">
 				        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion6" href="#collapseFourTab6" aria-expanded="false" aria-controls="collapseFourTab6">
-				          MASAŻ POWYSIŁKOWY<span></span>
+				          MASAŻ POWYSIŁKOWY
 				        </a>
 				      </h4>
 				    </div>
 				    <div id="collapseFourTab6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
 				      <div class="panel-body">
-				        <p>
-				        	Przeprowadza się go w przerwie między startami oraz przede wszystkim bezpośrednio po zawodach sportowych. Jego głównym zadaniem jest usprawnienie krążenia krwi i limfy, a także zmniejszenie powysiłkowego napięcia mięśniowego. Następnymi pozytywnymi efektami są skrócenie czasu regeneracji organizmu po intensywnym i długotrwałym wysiłku oraz usuniecie negatywnych skutków przetrenowania, czyli zlikwidowanie wzmożonego napięcia mięśniowego i kwasu mlekowego, które utrudniają treningi oraz hamują formę i osiągi zawodnika.
-				        </p>
+				        Przeprowadza się go w przerwie między startami oraz przede wszystkim bezpośrednio po zawodach sportowych. Jego głównym zadaniem jest usprawnienie krążenia krwi i limfy, a także zmniejszenie powysiłkowego napięcia mięśniowego. Następnymi pozytywnymi efektami są skrócenie czasu regeneracji organizmu po intensywnym i długotrwałym wysiłku oraz usuniecie negatywnych skutków przetrenowania, czyli zlikwidowanie wzmożonego napięcia mięśniowego i kwasu mlekowego, które utrudniają treningi oraz hamują formę i osiągi zawodnika.
 				      </div>
 				    </div>
 				  </div>

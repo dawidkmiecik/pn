@@ -1,9 +1,13 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-12 contactH2">
-			<h2 class="text-center"><strong>KONTAKT DO NAS :)</strong></h2>
+			<h2 class="text-center margin-top-big margin-bottom-between"><strong>Kontakt do nas :)</strong></h2>
 
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio rerum voluptate reprehenderit minima error omnis quisquam necessitatibus, unde, provident tenetur commodi vero, quis dicta sequi aut quaerat? Ab veniam distinctio reiciendis sit eveniet! Blanditiis cumque culpa accusamus unde non ipsum.</p>
+			<p>
+				Gorąco zachęcam do skorzystania z moich usług. Mogę Państwu obiecać pełen profesjonalizm oraz miła i sympatyczną atmosferę naszych spotkań.
+				<br /> 
+				Zapraszam do skorzystania z PROMOCJI
+			</p>
 		</div>
 	</div>
 </div>
@@ -46,3 +50,10 @@
 	</div>
 </div>
 
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<h3 class="text-center">Współpraca</h3>
+		</div>
+	</div>
+</div>

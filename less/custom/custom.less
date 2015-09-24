@@ -12,7 +12,6 @@ body {
   background-color: #fff;
 }
 
-
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', sans-serif;
   font-weight: bold;
@@ -75,6 +74,21 @@ p {
 // General rules end
 
 // Navbar - menu and tabs on massage, cuz nav is the same class on tabs.
+
+.custom-center-block {
+  display: block;
+  margin-left: 47%;
+  margin-right: 58%;
+}
+
+.navbar-toggle {
+  background-color: white;
+}
+
+.navbar-header > button{
+  z-index: 10;
+}
+
 .navbar {
   background-color: @colorGreen;
   margin-bottom: 0px;
@@ -237,13 +251,43 @@ nav .collapse{
   }
 }
 
+.customerReviews{
+  
+  h3{
+    text-transform: uppercase;
+    padding: 3rem 0;
+
+    >span {
+      display: block;
+      margin: 0 auto;
+      width: 15rem;
+      padding-top: 2rem;
+      border-bottom: solid 0.2rem @colorGreen;
+    } 
+  }
+
+  blockquote{
+    border: none;
+
+    img{
+      margin: 0 2rem; 
+      border-radius: 50%;
+      display: inline-block;
+      width: 5rem;
+    }
+  }  
+}
+
+
+// Star.php - Main site End
+
 // Massage site 
 
 #tabs li {
   font-size: 1.6rem;
 }
 
-#Massage1 {
+#Massage1, #Massage2, #Massage3,  #Massage4 {
 
   p {
     font-family: 'sertigregular';
@@ -253,17 +297,22 @@ nav .collapse{
   } 
 }
 
-#impact {
+#accordion, #accordion3, #collapseOneTab1, .sizeP {
   li {
     font-family: 'sertigregular';
     font-size: 1.7rem;
   }
 }
 
-#indications {
-  li {
+
+// Price 
+
+.table {
+  margin-top: 40px;
   font-family: 'sertigregular';
   font-size: 1.7rem;
+  thead {
+    font-family: 'Lato', sans-serif;
   }
 }
 
@@ -315,12 +364,23 @@ nav .collapse{
 // Contact end
 
 // Footer
+
+.sizeFontFooter {
+  font-size: 1.5rem;
+
+}
+
+.bgFooter {
+  background-color: @colorGreen;
+}
+
+
 .formularz label {
   display: block;
   /* ustawiamy by label rozpoczynał się od nowej linii*/
   margin-bottom: 0px;
   /* dodajemy margines dolny */
-  font-weight: bold;
+
   /* pogrubiamy czcionkę */
 
   /* zamieniamy wszystkie litery na duże */
@@ -328,12 +388,13 @@ nav .collapse{
   /* ustawiamy wielkość czcionki */
   color: black;
   /* ustawiamy kolor czcionki */
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 .formularz textarea {
   height: 50px;
   width: 100%;
-  border: 2px solid @colorGreen;
+ 
+  border-radius: 3px;
   /* padding-bottom: 15px; */
 }
 .formularz input {
@@ -341,7 +402,7 @@ nav .collapse{
   /* dodajemy margines wewnątrz naszego pola */
   border-radius: 3px;
   /* dodajemy zaokraglone rogi */
-  border: 2px solid #73dd81;
+
   /* dodajemy obramowanie */
   margin-bottom: 15px;
   /* dodajemy margines dolny */
@@ -356,11 +417,12 @@ nav .collapse{
   margin-bottom: 40px;
   /* resetujemy margines dolny */
   margin-top: 15px;
-  font-size: 1.3rem;
-  font-family: 'Dosis', sans-serif;
+  font-size: 1.5rem;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
 }
 .formularz p.copy {
-  color: #555555;
+  color: @colorText;
   /* ustawiamy kolor czcionki */
   margin-bottom: 0px;
   /* resetujemy margines dolny */
@@ -371,12 +433,19 @@ nav .collapse{
 }
 
 .formularz p.copy a {
-  color: #555555;
+  color: @colorText;
   /* ustawiamy kolor czcionki */
   text-decoration: none;
   /* usuwamy podkreślenie linku */
-  font-weight: bold;
   /* pogrubiamy czcionkę */
+  font-family: 'Lato', sans-serif;
+}
+
+
+.socialFeniks {
+  height: 14px;
+  width: 14px;
+  margin-left: 5px;
 }
 
 // Footer end

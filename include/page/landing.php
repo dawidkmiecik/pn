@@ -24,11 +24,11 @@
 	<body>
 		<div class="container"> 
 			<div class="row landingLogo">
-				<div class="col-md-4 col-md-offset-2">
-					<a href="../../index.php"><img src="../../img/logo.png" alt="logo"></a>
+				<div class="col-md-4 col-md-offset-2 margin-top margin-bottom">
+					<a href="../../index.php"><img src="../../img/logo.png" alt="logo"><h1 class="hidden">Piotr Nowak Rehabilitacja Masaż</h1></a>
 				</div>
-				<div class="col-md-4 col-md-offset-2">
-					<h2>ZADZWOŃ: 888 888 888</h2>
+				<div class="col-md-5 col-md-offset-1 margin-top">
+					<h2><span>ZADZWOŃ: 888 888 888</span></h2>
 				</div>
 			</div>
 		</div>
@@ -61,19 +61,19 @@
 		<div class="container landingSection" > 
 			<div class="row">
 				<div class="col-sm-4">
-					<img src="../../img/headerfoto1.jpg" alt="logo">
-					<h2 class="text-center">Header 1</h2>
-					<p class="text-justify">iet quisquam voluptate rem debitis harum, iure, id culpa ullam autem enim dolores recusandae, magnam tempora molestias nesciunt commodi suscipit expedita consequatur maiores vero veritatis, ea voluptates. Nisi error ut id distinctio officiis temporibus rem fugit aspernatur eligendi sequi sed pariatur illum, doloribus tempora, dolor sit vero quis omnis cumque aliquam velit tenetur possimus similique! Quam blanditiis sint perferendis reiciendis quisquam, velit nobis rem, sunt, laborum corporis eum ipsum ex at quo ratione quas nam maiores laudantium adipisci nesciunt reprehenderit veritatis ea asperiores odit. Facilis, necessitatibus, optio.</p>
+					<img class="img-responsive margin-bottom center-block" src="../../img/headerfoto1.jpg" alt="logo">
+					<h2 class="text-center margin-bottom-between margin-top-big">Header 1</h2>
+					<p class="text-justify margin-bottom-min">iet quisquam voluptate rem debitis harum, iure, id culpa ullam autem enim dolores recusandae, magnam tempora molestias nesciunt commodi suscipit expedita consequatur maiores vero veritatis, ea voluptates. Nisi error ut id distinctio officiis temporibus rem fugit aspernatur eligendi sequi sed pariatur illum, doloribus tempora, dolor sit vero quis omnis cumque aliquam velit tenetur possimus similique! Quam blanditiis sint perferendis reiciendis quisquam, velit nobis rem, sunt, laborum corporis eum ipsum ex at quo ratione quas nam maiores laudantium adipisci nesciunt reprehenderit veritatis ea asperiores odit. Facilis, necessitatibus, optio.</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="../../img/headerfoto2.jpg" alt="logo">
-					<h2 class="text-center">Header 2</h2>
-					<p class="text-justify">iet quisquam voluptate rem debitis harum, iure, id culpa ullam autem enim dolores recusandae, magnam tempora molestias nesciunt commodi suscipit expedita consequatur maiores vero veritatis, ea voluptates. Nisi error ut id distinctio officiis temporibus rem fugit aspernatur eligendi sequi sed pariatur illum, doloribus tempora, dolor sit vero quis omnis cumque aliquam velit tenetur possimus similique! Quam blanditiis sint perferendis reiciendis quisquam, velit nobis rem, sunt, laborum corporis eum ipsum ex at quo ratione quas nam maiores laudantium adipisci nesciunt reprehenderit veritatis ea asperiores odit. Facilis, necessitatibus, optio.</p>
+					<img class="img-responsive margin-bottom center-block" src="../../img/headerfoto2.jpg" alt="logo">
+					<h2 class="text-center margin-bottom-between margin-top-big">Header 2</h2>
+					<p class="text-justify margin-bottom-min">iet quisquam voluptate rem debitis harum, iure, id culpa ullam autem enim dolores recusandae, magnam tempora molestias nesciunt commodi suscipit expedita consequatur maiores vero veritatis, ea voluptates. Nisi error ut id distinctio officiis temporibus rem fugit aspernatur eligendi sequi sed pariatur illum, doloribus tempora, dolor sit vero quis omnis cumque aliquam velit tenetur possimus similique! Quam blanditiis sint perferendis reiciendis quisquam, velit nobis rem, sunt, laborum corporis eum ipsum ex at quo ratione quas nam maiores laudantium adipisci nesciunt reprehenderit veritatis ea asperiores odit. Facilis, necessitatibus, optio.</p>
 				</div>
 				<div class="col-sm-4">
-					<img src="../../img/headerfoto3.jpg" alt="logo">
-					<h2 class="text-center">Header 3</h2>
-					<p class="text-justify">iet quisquam voluptate rem debitis harum, iure, id culpa ullam autem enim dolores recusandae, magnam tempora molestias nesciunt commodi suscipit expedita consequatur maiores vero veritatis, ea voluptates. Nisi error ut id distinctio officiis temporibus rem fugit aspernatur eligendi sequi sed pariatur illum, doloribus tempora, dolor sit vero quis omnis cumque aliquam velit tenetur possimus similique! Quam blanditiis sint perferendis reiciendis quisquam, velit nobis rem, sunt, laborum corporis eum ipsum ex at quo ratione quas nam maiores laudantium adipisci nesciunt reprehenderit veritatis ea asperiores odit. Facilis, necessitatibus, optio.</p>
+					<img class="img-responsive margin-bottom center-block" src="../../img/headerfoto3.jpg" alt="logo">
+					<h2 class="text-center margin-bottom-between margin-top-big">Header 3</h2>
+					<p class="text-justify margin-bottom-min">iet quisquam voluptate rem debitis harum, iure, id culpa ullam autem enim dolores recusandae, magnam tempora molestias nesciunt commodi suscipit expedita consequatur maiores vero veritatis, ea voluptates. Nisi error ut id distinctio officiis temporibus rem fugit aspernatur eligendi sequi sed pariatur illum, doloribus tempora, dolor sit vero quis omnis cumque aliquam velit tenetur possimus similique! Quam blanditiis sint perferendis reiciendis quisquam, velit nobis rem, sunt, laborum corporis eum ipsum ex at quo ratione quas nam maiores laudantium adipisci nesciunt reprehenderit veritatis ea asperiores odit. Facilis, necessitatibus, optio.</p>
 				</div>
 			</div>
 		</div>
@@ -82,7 +82,7 @@
 			<div class="container" > 
 				<div class="row">
 					<div class="col-md-12">
-						<h2 class="text-center">Poznaj nas</h2>					
+						<h2 class="text-center margin-bottom-between margin-top-big">Poznaj nas</h2>					
 						<div class="col-md-offset-2 col-md-8">
 							<div class="videoWrapper">
 							    <!-- Copy & Pasted from YouTube -->
@@ -96,7 +96,7 @@
 
 <div class="container">
 	<div class="row">
-		<h1 class="text-center">Kontakt</h1>
+		<h2 class="text-center margin-bottom-between margin-top-big">Kontakt</h2>
 
 		<div class="col-md-4">
 			<div class="thumb-box">
