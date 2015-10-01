@@ -33,7 +33,7 @@
 
 				<div class="col-md-6">
 					<address class="margin-top-min">
-						<h4 class="text-right margin-bottom">Piotr Nowak Rehabilitacja • Masaż</h3>
+						<h4 class="text-right margin-bottom">Piotr Nowak Rehabilitacja • Masaż</h4>
 						<h5 class="text-right"><a href=""  data-toggle="modal" data-target="#myModal"><span class="glyphicon glyphicon-map-marker"></span> Zobacz mape dojazdu</a>
 
 							<!-- Modal -->
@@ -45,7 +45,7 @@
 							        <h4 class="modal-title text-center" id="myModalLabel">Dojaz do klienta gratis w danym obszarze</h4>
 							      </div>
 							      <div class="modal-body">
-							         <iframe src="https://www.google.com/maps/d/embed?mid=zal0jcTNfq7s.kv_xBkf6OOz8" width="100%" height="350"></iframe>
+							         <iframe src="https://www.google.com/maps/d/embed?mid=zy38mB-IGOZo.ka0AXpldAMII" width="640" height="480"></iframe>
 							      </div>
 							      <div class="modal-footer">
 							        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -56,7 +56,7 @@
 
 						<br />
 						<br />
-						<abbr class="sizeFontFooter" title="Phone"></abbr><span class="glyphicon glyphicon-phone" aria-hidden="true"></span>  +48 888 888 888<br>
+						<abbr class="sizeFontFooter" title="Phone"></abbr><span class="glyphicon glyphicon-phone" aria-hidden="true"></span>  +48 502 294 674<br>
 						<a class="" href="index.php"><span class="glyphicon glyphicon-globe" aria-hidden="true"></span>  www.example.pl</a><br>
 						<a href="mailto:#"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>  biuro@exampel.pl</a>
 						</h5>

@@ -11,17 +11,9 @@
 		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
 		<script type="text/javascript"src="js/jquery.shorten.js"></script> 
 		<script src="js/transition.js"></script>
-		<script src="js/affix.js"></script>
-		<script src="js/alert.js"></script>
-		<script src="js/button.js"></script>
-		<script src="js/carousel.js"></script>
 		<script src="js/collapse.js"></script>
 		<script src="js/modal.js"></script>
-		<script src="js/popover.js"></script>
-		<script src="js/dropdown.js"></script>
 		<script src="js/tab.js"></script>
-		<script src="js/tooltip.js"></script>
-		<script src="js/transition.js"></script>
 	</head>
 	<body>
 

@@ -1,12 +1,16 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-12 contactH2">
-			<h2 class="text-center margin-top-big margin-bottom-between"><strong>Kontakt do nas :)</strong></h2>
-
-			<p>
+			<h2 class="text-center margin-top-big margin-bottom-between">
+				<strong>Kontakt do nas :)</strong></h2>
+			<p class="text-center padding-top-big">
 				Gorąco zachęcam do skorzystania z moich usług. Mogę Państwu obiecać pełen profesjonalizm oraz miła i sympatyczną atmosferę naszych spotkań.
-				<br /> 
-				Zapraszam do skorzystania z PROMOCJI
+			</p>
+			<h3 class="text-center">Pracuję</h3>
+			<p class="text-center margin-top">
+				Poniedziałek - Piątek od godziny 8:00 do 20:00.
+				<br/> 
+				W wyjątkowych przypadkach istnieje możliwość spotkań weekendowych. 
 			</p>
 		</div>
 	</div>
@@ -23,7 +27,7 @@
 				<img src="img/telephone.png" class="img-responsive center-block text-center" alt="">
 			</div>
 			<h3 class="text-center margin-top-big">TELEFON</h3>
-			<p class="text-center">888 888 888</p>
+			<p class="text-center">502 294 674</p>
 		</div>
 
 		<div class="col-md-3 text-center contactText">
@@ -34,18 +38,22 @@
 			<p class="text-center">mail@exmaple</p>
 		</div>
 		<div class="col-md-3 text-center contactText">
-			<div class="contactCircle">
-				<img src="img/payment.png" class="img-responsive center-block text-center" alt="">
-			</div>
-			<h3 class="text-center margin-top-big">????</h3>
-			<p class="text-center">SKORZYSTAJ Z RABATU!</p>
+			<a href="price.php">
+				<div class="contactCircle">
+					<img src="img/payment.png" class="img-responsive center-block text-center" alt="">
+				</div>
+				<h3 class="text-center margin-top-big">PROMOCJE!</h3>
+				<p class="text-center">Zobacz</p>
+			</a>
 		</div>
 		<div class="col-md-3 text-center contactText">
-			<div class="contactCircle">
-				<img src="img/facebook.png" class="img-responsive center-block text-center" alt="">
-			</div>
-			<h3 class="text-center margin-top-big">ZNAJDZ NAS NA Fb</h3>
-			<p class="text-center">link do fb</p>
+			<a href="">
+				<div class="contactCircle">
+					<img src="img/facebook.png" class="img-responsive center-block text-center" alt="">
+				</div>
+				<h3 class="text-center margin-top-big">ZNAJDZ NAS NA</h3>
+				<p class="text-center">link do fb</p>
+			</a>
 		</div>
 	</div>
 </div>
@@ -53,7 +61,12 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			<h3 class="text-center">Współpraca</h3>
+			<h3 class="text-center margin-top-big margin-bottom-between">
+				Współpraca
+			</h3>
+			<p class="text-center">
+				Zachęcam do podjęcia współpracy przychodnie zdrowia , domy kultury, domy seniora, domy pomocy społecznej, kluby sportowe, lekarzy oraz innych fizjoterapeutów i masażystów.   
+			</p>
 		</div>
 	</div>
 </div>

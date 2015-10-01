@@ -1,10 +1,10 @@
-<div class="jumbotron">
-  <div class="container">
-    <h1>Witam serdecznie,</h1>
-    <p>na stronie poświęconej rehabilitacji w <strong>Twoim domu.</strong></p>
-    <p class="margin-top-min"><a class="btn-jumbo" href="#" role="button">Zobacz więcej</a></p>
-  </div>
+<div class="container">
+	<div class="jumbotron">
+	    <h2>Witam serdecznie,</h2>
+	    <p>na stronie poświęconej rehabilitacji w <strong>Twoim domu.</strong></p>
+	</div>
 </div>
+
 <!-- Import pasku rabatowego - przekierowanie do landing page. -->
 <?php include 'include/sales.php'; ?> 
 
@@ -13,14 +13,14 @@
 		<div class="col-md-6 col-sm-12">		
 			<div class="media">
 				<span class="pull-left">
-					<img class="img-responsive margin-top-big" src="img/foto.jpg" alt="">
+					<img class="img-responsive margin-top-big" src="img/rehabilitation_main.jpg" alt="">
 				</span>
 			</div>
 		</div>
 
 		<div class="col-md-6 col-sm-12">
 			<div class="media-body">
-				<h3 class="text-center media-heading  margin-bottom-between margin-top-big"><a href="rehabilitation.php">Rehablitacja Lecznicza</a></h3>
+				<h3 class="text-center media-heading  margin-bottom-between margin-top-big"><a href="rehabilitation.php">Rehabilitacja Lecznicza</a></h3>
 				<p>Ma na celu przywrócenie  pełnej lub możliwej do osiągnięcia sprawności fizycznej i psychicznej. Istotnie duże znaczenie ma po zabiegach operacyjnych, w przewlekłych jednostkach chorobowych i nagłych przypadkach np. kontuzje sportowe. 
 				<br />
 				<br />
@@ -53,7 +53,7 @@
 		<div class="col-md-6 col-sm-12">	
 			<div class="media">
 				<span class="pull-right">
-					<img class="img-responsive margin-top-big" src="img/foto.jpg" alt="">
+					<img class="img-responsive margin-top-big" src="img/massage_main.jpg" alt="">
 				</span>
 			</div>
 		</div>
@@ -79,10 +79,10 @@
 	</div>
 </div>
 
-<!--------------------------------------- carousel section  -->	
+<!--carousel section  -->	
 <div class="container customerReviews" >
 	<div class="row">
-		<h3 class="text-center"> What our customer say <span></span></h3>
+		<h3 class="text-center">Opinie<span></span></h3>
 		<div class="col-md-6">	
 			<div  id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="3000">
 			  <!-- Indicators 
@@ -97,9 +97,9 @@
 				    	<div class="col-md-12">	
 							<blockquote>
 								<p class="text-justify">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates tempore adipisci, doloremque aperiam nesciunt repellat animi dolorum quo ipsum quas.
+								Pan Piotr postawił mojego tatę na nogi, który po złamaniu kości udowej leżał załamany w łóżku. Profesjonalne podejście Pana Piotra sprawiło, że tata zaczął ćwiczyć i w niedługim czasie zaczął chodzić. Jeszcze raz dziękuje! 
 								</p>
-								<p><img src="img/face.png">  Andy Andy </p>
+								<p class="text-right"> Pozdrawiam Beata (córka Henryka) </p>
 							</blockquote>
 						</div>
 				    </div>
@@ -107,26 +107,16 @@
 						<div class="col-md-12">	
 							<blockquote>
 								<p class="text-justify">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates tempore adipisci, doloremque aperiam nesciunt repellat animi dolorum quo ipsum quas.
+								Po wstawieniu endoprotezy kolana bardzo się martwiłam, gdyż nie mogłam zbytnio go zginać. Po ciężkiej pracy, do której byłam stale motywowana przez pana Piotrusia :-) przyszły efekty. Jestem bardzo szczęśliwa, gdyż nie odczuwam żadnego dyskomfortu a całe wakacje spędziłam aktywnie na działce. Gorąco polecam pana Piotra! 
 								</p>
-								<p><img src="img/face.png">  Andy Andy </p>
-							</blockquote>
-						</div>
-				    </div>
-				    <div class="item">
-						<div class="col-md-12">	
-							<blockquote>
-								<p class="text-justify">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates tempore adipisci, doloremque aperiam nesciunt repellat animi dolorum quo ipsum quas.
-								</p>
-								<p><img src="img/face.png">  Andy Andy </p>
+								<p class="text-right"> Krysia z rataj </p>
 							</blockquote>
 						</div>
 				    </div>
 			    </div>
 			</div>
 
-			  <!-- Controls 
+			<!-- Controls 
 			<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
 				<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 				<span class="sr-only">Previous</span>
@@ -150,9 +140,9 @@
 				    	<div class="col-md-12">	
 							<blockquote>
 								<p class="text-justify">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates tempore adipisci, doloremque aperiam nesciunt repellat animi dolorum quo ipsum quas.
+								Ręce Pana Piotr leczą! Po serii masaży kręgosłupa, efekt był niesamowity. Mam nadzieję, że efekty utrzymają jak najdłużej, choć chętnie znowu z Panem bym się spotkała. Na pewno jeszcze zadzwonię. 
 								</p>
-								<p><img src="img/face.png">  Andy Andy </p>
+								<p class="text-right"> Pozdrawiam Ewa </p>
 							</blockquote>
 						</div>
 				    </div>
@@ -160,19 +150,9 @@
 						<div class="col-md-12">	
 							<blockquote>
 								<p class="text-justify">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates tempore adipisci, doloremque aperiam nesciunt repellat animi dolorum quo ipsum quas.
+								Myśl, że w przyszłym roku będę miała znowu wstawianą endoprotezę biodra już mnie przestał niepokoić. Szkoda tylko, że teraz tak długo zwlekałam z rehabilitacją. Miłe towarzystwo Pana Piotra umilało mi czas ćwiczeń. Jestem bardzo wdzięczna! 
 								</p>
-								<p><img src="img/face.png">  Andy Andy </p>
-							</blockquote>
-						</div>
-				    </div>
-				    <div class="item">
-						<div class="col-md-12">	
-							<blockquote>
-								<p class="text-justify">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates tempore adipisci, doloremque aperiam nesciunt repellat animi dolorum quo ipsum quas.
-								</p>
-								<p><img src="img/face.png">  Andy Andy </p>
+								<p class="text-right"> Do zobaczenia Maria L </p>
 							</blockquote>
 						</div>
 				    </div>
@@ -192,4 +172,4 @@
 	</div>
 </div>
 
-<!--------------------------------------- END carousel section  -->	
+<!-- END carousel section  -->	

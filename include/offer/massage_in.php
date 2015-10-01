@@ -603,27 +603,27 @@
 					<br />
 			  		<strong>Masaż relaksacyjny to idealny sposób na zmęczenie zarówno fizyczne, jak i psychiczne.</strong> Szybkie tempo życia, codzienne troski i problemy, ciągłe napięcie psychiczne - wszystko to sprawia, że czujemy się przemęczeni i pozbawieni energii. W takiej chwili dobry masaż relaksacyjny leczy obolałe i napięte mięśnie, a także jest prawdziwą przyjemnością dla ciała i dla ducha. Masaż pleców i karku sprawia, że można się w pełni odprężyć, choć na chwilę zapomnieć o kłopotach i nabrać energii tak potrzebnej do codziennego funkcjonowania.  Zmysł dotyku stanowi w naszym życiu ważny element naszej sensepcji, jak i również percepcji. Dotyk podczas masażu relaksacyjnego powinien być odbierany przez pacjenta, jako przyjemność oraz być źródłem radości.
 			  	</p>
-			  	<div class="panel-group margin-top-big" id="accordion5">
-
-					<div class="panel panel-default" >
-						<div class="panel-heading text-center" >
-							<h4 class="panel-title">      	          			       
-								<a data-toggle="collapse" class="collapsed" data-parent="#accordion5" href="#collapseOneRelax">Celem masażu relaksacyjnego jest<span></span>
-								</a>
-							</h4>
-						</div>
-
-						<div id="collapseOneRelax" class="panel-collapse collapse in">
-							<div class="panel-body text-center">
-								<li>osiągnięcie relaksu umysłowego i fizycznego,</li>
-								<li>wyciszenie i uspokojenie organizmu – uzyskanie spokoju wewnętrznego (działanie „antystresowe” i „antynerwicowe”),</li>
-								<li>pozyskanie zadowolenia z siebie i otoczenia,</li>
-								<li>masaż ułatwia oddychanie skórne,</li>
-								<li>wyzwolenie pozytywnego myślenia,</li>
-								<li>wydobycie aspiracji do kreatywnego funkcjonowania,</li>
-							</div>
-						</div>
-					</div>
+			  	
+				<div class="panel-group margin-top-big" id="accordion6" role="tablist" aria-multiselectable="true">
+				  <div class="panel panel-default">
+				    <div class="panel-heading text-center" role="tab" id="headingOne">
+				      <h4 class="panel-title">
+				        <a role="button" data-toggle="collapse" data-parent="#accordion6" href="#collapseOneTab1" aria-expanded="true" aria-controls="collapseOne">
+				          Usprawniamy<span></span>
+				        </a>
+				      </h4>
+				    </div>
+				    <div id="collapseOneTab1" class="panel-collapse collapse in text-center" role="tabpanel" aria-labelledby="headingOne">
+				      <div class="panel-body">
+							<li>osiągnięcie relaksu umysłowego i fizycznego,</li>
+							<li>wyciszenie i uspokojenie organizmu – uzyskanie spokoju wewnętrznego (działanie „antystresowe” i „antynerwicowe”),</li>
+							<li>pozyskanie zadowolenia z siebie i otoczenia,</li>
+							<li>masaż ułatwia oddychanie skórne,</li>
+							<li>wyzwolenie pozytywnego myślenia,</li>
+							<li>wydobycie aspiracji do kreatywnego funkcjonowania.</li>
+				      </div>
+				    </div>
+				  </div>
 				</div>
 			  </div>
 			</div>

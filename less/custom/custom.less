@@ -28,6 +28,9 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+a:hover { 
+  text-decoration: none;
+}
 p {
   color: @colorText;
   font-family: 'sertigregular';
@@ -71,6 +74,14 @@ p {
 	margin-top: 40px;
 }
 
+// padding class
+.padding-top-min {
+  padding-top: 40px;
+}
+.padding-top-big { 
+  padding-top: 80px;
+}
+
 // General rules end
 
 // Navbar - menu and tabs on massage, cuz nav is the same class on tabs.
@@ -79,6 +90,16 @@ p {
   display: block;
   margin-left: 47%;
   margin-right: 58%;
+
+  @media all and (max-width:  1200px) {
+    margin-left: 45%;
+    margin-right: 55%;
+  }
+  
+  @media all and (max-width:  999px) {
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 .navbar-toggle {
@@ -163,8 +184,25 @@ nav .collapse{
 
 // Jumobtron
 
-.jumbotron {
-  margin-bottom: 0px;
+.jumbotron { 
+  background-color: white;
+/*   background: url('../img/tabel.jpg') top right no-repeat;
+padding-top: 50px;
+padding-bottom: 50px;
+margin-bottom: 0px;
+
+@media all and (max-width:  1050px) {
+background: url('../img/tabel-min.jpg') top left no-repeat;
+} */
+
+  h2 {
+    color: black;
+    margin-top: 15px;
+  }
+  p {
+    color: black;
+  }
+
 }
 
 .btn-jumbo {
@@ -316,6 +354,37 @@ nav .collapse{
   }
 }
 
+.bg-price {
+  background: #D9EDF7;
+}
+
+.circle {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  height: 150px;
+  width: 150px;
+  -webkit-border-radius: 150px 150px 150px 150px;
+  border-radius: 150px 150px 150px 150px;
+  display: inline-block;
+  border: 2px solid white;
+  background-color: rgba(255, 255, 255, 0.5);
+    h3 {
+      margin-top: 55px;
+      margin-left: auto;
+      margin-right: auto;
+      }
+  }
+.promotion_price {
+  padding-bottom: 30px;
+}
+  
+#list_price {
+  font-family: 'sertigregular';
+  font-size: 1.7rem;
+  padding-bottom: 30px;
+}
+
 // Contact
 
 .contactH2 {
@@ -336,15 +405,19 @@ nav .collapse{
 	}
 
 
-	p {
+	p{
 		text-align: center;
 		font-family: 'sertigregular';
-		padding-top: 80px;
 	}
 }
 
 
 .contactText {
+  h3 {
+      &:hover {
+      color: @link-color;
+    }
+  }
 	.contactCircle {
 		margin-top: 80px;
 		height: 150px;
